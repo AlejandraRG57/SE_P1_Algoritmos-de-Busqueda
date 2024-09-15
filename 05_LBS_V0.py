@@ -1,3 +1,4 @@
+#Alejandra Rodriguez Guevara 21310127 7E1
 """Local Beam Search"""
 
 import pygame, sys, random
