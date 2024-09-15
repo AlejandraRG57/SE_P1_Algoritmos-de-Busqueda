@@ -1,3 +1,4 @@
+#Alejandra Rodriguez Guevara 21310127 7E1
 """Breadth First Search"""
 # Comentario que indica que el código implementa el algoritmo de búsqueda en anchura (BFS).
 
