@@ -11,3 +11,4 @@ _Tomamos 5 Algoritmos de busqueda de nuestro repositorio de busqueda en grafos y
 
 ## Expresiones de Gratitud 🎁
 * Gracias a el profesor Mauricio Alejandro Cabrera Arellano por siempre impulsarnos a aprender cosas nuevas.
+* Gracias a @nas-programmer por sus increibles explicacions y por enseñar como usar estos algoritmos con pygame.
